@@ -1,0 +1,12 @@
+ESP32
+SIM800L GSM Module
+NEO-6M GPS Module
+High Voltage Generator
+TP4056 charging module
+Touch sensor
+Force sensor
+Relay Module
+3.7V Lithium-Ion Battery x2
+Battery holder
+Jumper wires
+Insulated wires
